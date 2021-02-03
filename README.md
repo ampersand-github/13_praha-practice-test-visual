@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 npm run storybook
 http://localhost:6006/
+npm run test
+npx cypress open
